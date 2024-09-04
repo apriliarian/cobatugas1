@@ -15,6 +15,8 @@ misalnya :
 ![Screenshot 2024-09-04 093050](https://github.com/user-attachments/assets/c3fd37b8-1689-4d01-ba5b-f0469cf25fa3)
 
 git fetch untuk mengambil pembaruan terbaru dari repositori GitHub tanpa menggabungkannya secara langsung dengan repositori lokal. Ini berarti bahwa git fetch hanya mengambil informasi tentang perubahan yang ada di repositori GitHub tanpa mengubah cabang yang sedang dikerjakan di respositori lokal.
+![Screenshot 2024-09-04 095443](https://github.com/user-attachments/assets/2e11b967-03cc-4f00-93fe-ca7ad46055bb)
+
 git pull digunakan untuk mengambil (pull) perubahan terbaru dari repositori GitHub dan langsung menggabungkannya dengan repositori VS Code.
 ![Screenshot 2024-09-04 094740](https://github.com/user-attachments/assets/d66644c0-5f60-42c7-b2e8-a000cf1b5c77)
 
