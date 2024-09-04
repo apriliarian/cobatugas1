@@ -1,11 +1,7 @@
-<<<<<<< HEAD
 # coba
-git add merupakan perintah ini digunakan untuk menambahkan perubahan (file yang diubah, ditambah,ataupun di hapus) pada VS  Code. 
-![Screenshot 2024-09-04 093038](https://github.com/user-attachments/assets/4a5341ed-6306-4f51-95ae-fc3c893bf093)
-=======
-# coba coba tugas nomor 3
+## coba coba tugas nomor 3
 git add merupakan perintah ini digunakan untuk menambahkan perubahan (file yang diubah, ditambah,ataupun di hapus) pada VS  Code agar terhung dengan file yang ada di GitHub.
->>>>>>> 3682d919773bde0e94d7ea99746f839a900ddaf6
+
 
 git config digunakan untuk mengatur identitas pengguna . Saat melakukan commit, Git perlu mengetahui siapa yang membuat perubahan. Identitas ini akan dicatat di setiap commit. ketika melakukan git config kita harus menambahkan email yang kita pakai pada GitHub.
 git config --global user.email "nama@mail.ugm.ac.id"
@@ -20,19 +16,16 @@ misalnya :
 
 git fetch untuk mengambil pembaruan terbaru dari repositori GitHub tanpa menggabungkannya secara langsung dengan repositori lokal. Ini berarti bahwa git fetch hanya mengambil informasi tentang perubahan yang ada di repositori GitHub tanpa mengubah cabang yang sedang dikerjakan di respositori lokal.
 git pull digunakan untuk mengambil (pull) perubahan terbaru dari repositori GitHub dan langsung menggabungkannya dengan repositori VS Code.
+![Screenshot 2024-09-04 094740](https://github.com/user-attachments/assets/d66644c0-5f60-42c7-b2e8-a000cf1b5c77)
+
+Apabila melakukan perubahan di GitHub dan VSCode setelah "git commi-m " " maka harus menggunakan git pull atau git fetch agar perubahan yang dilakukan keduanya sinkron. 
+
+![Screenshot 2024-09-04 094752](https://github.com/user-attachments/assets/e7f9367a-fd7d-415b-9c2e-7e8377e57a0f)
+
 
 git push digunakan untuk mengirim perubahan dari repositori lokal GitHub. Setelah melakukan commit di repositori lokal (VS Code), git push akan mengunggah commit-commit tersebut ke server GitHub agar perubahan yang dilakukan tersimpan di repositori online dan bisa diakses oleh orang lain atau kolaborator.
 ![Screenshot 2024-09-04 093059](https://github.com/user-attachments/assets/91dd742c-12ae-4b05-8137-afbf42ad6ff9)
 
-
-
-
-
-
-<<<<<<< HEAD
-=======
-git fetch untuk mengambil pembaruan terbaru dari repositori GitHub tanpa menggabungkannya secara langsung dengan repositori lokal. Ini berarti bahwa git fetch hanya mengambil informasi tentang perubahan yang ada di repositori GitHub tanpa mengubah cabang yang sedang dikerjakan di respositori lokal.
->>>>>>> 3682d919773bde0e94d7ea99746f839a900ddaf6
 
 
 
