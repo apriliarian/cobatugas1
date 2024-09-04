@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 # coba
 git add merupakan perintah ini digunakan untuk menambahkan perubahan (file yang diubah, ditambah,ataupun di hapus) pada VS  Code. 
 ![Screenshot 2024-09-04 093038](https://github.com/user-attachments/assets/4a5341ed-6306-4f51-95ae-fc3c893bf093)
+=======
+# coba coba tugas nomor 3
+git add merupakan perintah ini digunakan untuk menambahkan perubahan (file yang diubah, ditambah,ataupun di hapus) pada VS  Code agar terhung dengan file yang ada di GitHub.
+>>>>>>> 3682d919773bde0e94d7ea99746f839a900ddaf6
 
 git config digunakan untuk mengatur identitas pengguna . Saat melakukan commit, Git perlu mengetahui siapa yang membuat perubahan. Identitas ini akan dicatat di setiap commit. ketika melakukan git config kita harus menambahkan email yang kita pakai pada GitHub.
 git config --global user.email "nama@mail.ugm.ac.id"
@@ -8,7 +13,7 @@ git config --global user.email "nama@mail.ugm.ac.id"
 ![Screenshot 2024-09-04 093044](https://github.com/user-attachments/assets/f58576f3-ff5a-49e9-aae4-6343d9744991)
 
 git commit menyimpan setiap perubahan yang dilakukan disimpan secara permanen ke dalam repositori lokal.
-"-m" digunakan untuk menambahkan pesan singkat yang menjelaskan apa yang telah berubah
+"-m" digunakan untuk menambahkan pesan singkat yang menjelaskan apa yang telah diubah.
 misalnya :
     git commit -m "penambahan tugas"
 ![Screenshot 2024-09-04 093050](https://github.com/user-attachments/assets/c3fd37b8-1689-4d01-ba5b-f0469cf25fa3)
@@ -24,6 +29,10 @@ git push digunakan untuk mengirim perubahan dari repositori lokal GitHub. Setela
 
 
 
+<<<<<<< HEAD
+=======
+git fetch untuk mengambil pembaruan terbaru dari repositori GitHub tanpa menggabungkannya secara langsung dengan repositori lokal. Ini berarti bahwa git fetch hanya mengambil informasi tentang perubahan yang ada di repositori GitHub tanpa mengubah cabang yang sedang dikerjakan di respositori lokal.
+>>>>>>> 3682d919773bde0e94d7ea99746f839a900ddaf6
 
 
 
